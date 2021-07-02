@@ -1,0 +1,46 @@
+body{
+    background:#f1f1f1;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    font-style: 40px;
+    font-weight: 800;
+    
+}
+.blog{
+    border: 2px solid rgb(88, 12, 230);
+    margin: 20px 10px 20px;
+    padding: 10px 10px 20px;
+    background: rgba(45, 98, 148, 0.616);
+    border-radius: 5px;
+}
+.blog img{
+   margin-left: 430px;
+   border: 2px solid black;
+   border-radius: 10px;
+}
+.blog h2{
+    font-family:monospace;
+    font-size: 30px;
+    font-weight: 700;
+}
+.blog .center{
+    text-align: center;
+}
+.blog h5{
+    font-family: serif;
+    font-size: 15px;
+}
+.blog p{
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#forest{
+    background: rgb(152, 236, 152);
+    border: 2px solid rgb(44, 163, 44);
+}
+#forest img{
+    width: 464px;
+    height: 261px;
+}
