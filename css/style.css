@@ -17,7 +17,7 @@ h1{
 }
 .blog img{
    margin-left: 430px;
-   border: 2px solid black;
+   border: 2px solid #f1f1f1;
    border-radius: 10px;
 }
 .blog h2{
